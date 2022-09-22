@@ -1,0 +1,4 @@
+keycode  56 = b B v V rightdoublequotemark rightsinglequotemark b B
+keycode 106 = v V v V v V v V
+keycode 108 = Mode_switch
+keycode 135 = Super_L
